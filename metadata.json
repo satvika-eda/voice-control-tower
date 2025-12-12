@@ -1,0 +1,7 @@
+{
+  "name": "Voice Control Tower",
+  "description": "A voice-first AI logistics operations assistant powered by Gemini Live API. It manages shipments, risks, and communications in real-time.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
